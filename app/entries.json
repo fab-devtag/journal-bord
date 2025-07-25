@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "title": "Premier jour de journal",
+    "content": "Aujourd'hui j'ai commencé mon journal de bord. C'est motivant !",
+    "mood": "😊",
+    "date": "2025-07-20"
+  },
+  {
+    "id": "2",
+    "title": "Une journée difficile",
+    "content": "J'ai eu quelques soucis techniques. Mais j'ai appris beaucoup de choses.",
+    "mood": "😕",
+    "date": "2025-07-21"
+  },
+  {
+    "id": "3",
+    "title": "Victoire personnelle",
+    "content": "J'ai enfin compris un concept que je bloquais depuis longtemps. Très satisfait.",
+    "mood": "😄",
+    "date": "2025-07-22"
+  },
+  {
+    "id": "4",
+    "title": "Routine productive",
+    "content": "Aujourd'hui j’ai travaillé efficacement. La régularité paie.",
+    "mood": "🙂",
+    "date": "2025-07-23"
+  },
+  {
+    "id": "5",
+    "title": "Petite pause",
+    "content": "Un peu de repos pour mieux repartir demain.",
+    "mood": "😌",
+    "date": "2025-07-24"
+  }
+]
